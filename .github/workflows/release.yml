@@ -116,7 +116,7 @@ jobs:
       - name: Update Helm repo index
         run: |
           source scripts/lib/helm-repo-url.sh
-          helm repo index docs/ --url "${HELM_REPO_URL}"
+          helm repo index docs/ --url "${HELM_REPO_URL}" --merge docs/index.yaml
 
       - name: Publish Helm chart via pull request
         env:
