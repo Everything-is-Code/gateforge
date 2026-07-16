@@ -76,6 +76,10 @@ postgresql:
   url: ""
   username: apishift
   password: apishift
+  image:
+    repository: registry.redhat.io/rhel9/postgresql-15
+    tag: "latest"
+    pullPolicy: IfNotPresent
 
 rbac:
   clusterAdmin: false

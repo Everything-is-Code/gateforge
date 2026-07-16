@@ -2,6 +2,19 @@ apiVersion: v1
 entries:
   apishift:
   - annotations:
+      artifacthub.io/images: |
+        - name: backend
+          image: quay.io/everythingascode/apishift-backend:v0.3.0
+          whitelisted: true
+        - name: frontend
+          image: quay.io/everythingascode/apishift:v0.3.0
+          whitelisted: true
+        - name: postgresql
+          image: registry.redhat.io/rhel9/postgresql-15:latest
+          whitelisted: true
+        - name: datagrid
+          image: registry.redhat.io/datagrid/datagrid-8-rhel9:latest
+          whitelisted: true
       artifacthub.io/license: Apache-2.0
       artifacthub.io/links: |
         - name: Documentation
@@ -15,9 +28,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-07-16T14:14:37.9603472-03:00"
+    created: "2026-07-16T14:21:04.0217297-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 838f6b48db3c0cf7bf11c412f885ae3c73bb1be66cb0dbbcc54751ffd5970db1
+    digest: 748e8609420ddd746db896476863a1fd0eb61e0a568798f541ce56984682e7e1
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -35,6 +48,19 @@ entries:
     - https://everything-is-code.github.io/apishift/apishift-0.3.0.tgz
     version: 0.3.0
   - annotations:
+      artifacthub.io/images: |
+        - name: backend
+          image: quay.io/maximilianopizarro/gateforge-backend:v0.2.0
+          whitelisted: true
+        - name: frontend
+          image: quay.io/maximilianopizarro/gateforge-frontend:v0.2.0
+          whitelisted: true
+        - name: postgresql
+          image: registry.redhat.io/rhel9/postgresql-15:latest
+          whitelisted: true
+        - name: datagrid
+          image: registry.redhat.io/datagrid/datagrid-8-rhel9:latest
+          whitelisted: true
       artifacthub.io/license: Apache-2.0
       artifacthub.io/links: |
         - name: Documentation
@@ -48,9 +74,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2026-07-16T14:14:37.9593372-03:00"
+    created: "2026-07-16T14:21:04.0217297-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 0ae08618b1d13807e07a720502b05ca18b9b28d54102985ae49281dfc53b3283
+    digest: 010418f1febb4b4835f71a51f785bff8002b7d9d802e69353a8eb0ced90928e5
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -67,6 +93,19 @@ entries:
     - https://everything-is-code.github.io/apishift/apishift-0.2.0.tgz
     version: 0.2.0
   - annotations:
+      artifacthub.io/images: |
+        - name: backend
+          image: quay.io/maximilianopizarro/gateforge-backend:v0.1.9
+          whitelisted: true
+        - name: frontend
+          image: quay.io/maximilianopizarro/gateforge-frontend:v0.1.9
+          whitelisted: true
+        - name: postgresql
+          image: registry.redhat.io/rhel9/postgresql-15:latest
+          whitelisted: true
+        - name: datagrid
+          image: registry.redhat.io/datagrid/datagrid-8-rhel9:latest
+          whitelisted: true
       artifacthub.io/license: Apache-2.0
       artifacthub.io/links: |
         - name: Documentation
@@ -80,9 +119,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.9
-    created: "2026-07-16T14:14:37.9521534-03:00"
+    created: "2026-07-16T14:21:04.0207295-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 8eb101a5acec93b5d1d454daeee4818b9ab02deb194e2466c80cda852360b68e
+    digest: dd7e088064fbc0a800018b8d0eafe732550af74cde42f65efc4a56be6a5b769d
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -99,6 +138,19 @@ entries:
     - https://everything-is-code.github.io/apishift/apishift-0.1.9.tgz
     version: 0.1.9
   - annotations:
+      artifacthub.io/images: |
+        - name: backend
+          image: quay.io/maximilianopizarro/gateforge-backend:v0.1.8
+          whitelisted: true
+        - name: frontend
+          image: quay.io/maximilianopizarro/gateforge-frontend:v0.1.8
+          whitelisted: true
+        - name: postgresql
+          image: registry.redhat.io/rhel9/postgresql-15:latest
+          whitelisted: true
+        - name: datagrid
+          image: registry.redhat.io/datagrid/datagrid-8-rhel9:latest
+          whitelisted: true
       artifacthub.io/license: Apache-2.0
       artifacthub.io/links: |
         - name: Documentation
@@ -112,9 +164,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.8
-    created: "2026-07-16T14:14:37.9442806-03:00"
+    created: "2026-07-16T14:21:04.019732-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 29fcbfd9a5a48bdc7bee4505fba466917e231e377cbbc586b6ebd84482cf5117
+    digest: 3b05e42de63577c5827bb102930268c8c15559ec8a3cee16b9988e537e4a0be4
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -131,6 +183,19 @@ entries:
     - https://everything-is-code.github.io/apishift/apishift-0.1.8.tgz
     version: 0.1.8
   - annotations:
+      artifacthub.io/images: |
+        - name: backend
+          image: quay.io/maximilianopizarro/gateforge-backend:v0.1.7
+          whitelisted: true
+        - name: frontend
+          image: quay.io/maximilianopizarro/gateforge-frontend:v0.1.7
+          whitelisted: true
+        - name: postgresql
+          image: registry.redhat.io/rhel9/postgresql-15:latest
+          whitelisted: true
+        - name: datagrid
+          image: registry.redhat.io/datagrid/datagrid-8-rhel9:latest
+          whitelisted: true
       artifacthub.io/license: Apache-2.0
       artifacthub.io/links: |
         - name: Documentation
@@ -144,9 +209,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.7
-    created: "2026-07-16T14:14:37.9358176-03:00"
+    created: "2026-07-16T14:21:04.0187316-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 5eb24019247068005a9ac45acf718a32d7edf1bf0b6285ffa40b5741b6bb043b
+    digest: 89aa7b6c3c81f5a7968605e63df81f8c2e7ae8a029a7683cef6a5f72832f9848
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -176,7 +241,7 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.6
-    created: "2026-07-16T14:14:37.9285256-03:00"
+    created: "2026-07-16T14:21:04.0177368-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
     digest: 747e4262bf2912f5caf14352d2f066702ac0c33b423489d78e75714b2584ed8d
     home: https://everything-is-code.github.io/apishift/
@@ -208,7 +273,7 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.4
-    created: "2026-07-16T14:14:37.9204158-03:00"
+    created: "2026-07-16T14:21:04.0167244-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
     digest: 30a0610a957ec51b3b89697c51bff4514bbffb3c143945bdb82207b3595a64ba
     home: https://everything-is-code.github.io/apishift/
@@ -226,4 +291,4 @@ entries:
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.4.tgz
     version: 0.1.4
-generated: "2026-07-16T14:14:37.9125817-03:00"
+generated: "2026-07-16T14:21:04.0149814-03:00"
