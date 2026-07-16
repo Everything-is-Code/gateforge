@@ -17,7 +17,7 @@ backend:
 
 frontend:
   image:
-    repository: quay.io/everythingascode/apishift-frontend
+    repository: quay.io/everythingascode/apishift
     tag: v0.3.0
     pullPolicy: Always
   replicas: 1
