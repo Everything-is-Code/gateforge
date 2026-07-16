@@ -25,7 +25,7 @@ jobs:
             context: ./backend
             dockerfile: ./backend/Dockerfile.jvm
             needs-version: false
-          - image: apishift-frontend
+          - image: apishift
             context: ./frontend
             dockerfile: ./frontend/Dockerfile.ci
             needs-version: true

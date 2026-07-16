@@ -316,6 +316,25 @@
         "password": {
           "type": "string",
           "description": "Database password"
+        },
+        "image": {
+          "type": "object",
+          "description": "PostgreSQL container image",
+          "properties": {
+            "repository": {
+              "type": "string",
+              "description": "Container image repository"
+            },
+            "tag": {
+              "type": "string",
+              "description": "Container image tag"
+            },
+            "pullPolicy": {
+              "type": "string",
+              "description": "Image pull policy",
+              "enum": ["Always", "IfNotPresent", "Never"]
+            }
+          }
         }
       }
     },
