@@ -11,12 +11,7 @@ import { appVersion } from '../environments/version';
     <header class="page-header">
       <div class="container header-content">
         <a routerLink="/" class="brand">
-          <svg class="logo" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="100" cy="100" r="96" fill="#ee0000"/>
-            <path d="M50 150 L70 60 Q100 30 130 60 L150 150" fill="none" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-            <circle cx="100" cy="105" r="10" fill="white"/>
-            <circle cx="100" cy="105" r="5" fill="#ee0000"/>
-          </svg>
+          <img class="logo" src="logo.svg" alt="ApiShift" />
           <span class="brand-name">ApiShift</span>
         </a>
         <nav>
@@ -65,7 +60,7 @@ import { appVersion } from '../environments/version';
       color: white; margin-right: 32px; flex-shrink: 0;
     }
     .brand:hover { text-decoration: none; }
-    .logo { height: 30px; width: 30px; }
+    .logo { height: 32px; width: auto; display: block; }
     .brand-name {
       font-family: 'Red Hat Display', sans-serif;
       font-size: 1.15rem; font-weight: 600; letter-spacing: 0.5px;

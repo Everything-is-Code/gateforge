@@ -15,9 +15,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-06-16T18:25:58.494015869Z"
+    created: "2026-07-16T12:14:37.8659612-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 00d8bfd7b425c8c0a49eecaca4f96bcbfae1a9eb27f5804501aaa092eb441527
+    digest: 428708273f37649a6d7f8121610598a23c7c2cd59a019c6540097744d1c17b7f
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -25,7 +25,7 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/Everything-is-Code/ApiShift
+    - https://github.com/Everything-is-Code/apishift
     type: application
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.3.0.tgz
@@ -44,9 +44,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2026-06-16T18:25:58.492634274Z"
+    created: "2026-07-16T12:14:37.8654311-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 7ec169c360e07f7679ff8687264e84c51363431df6e8b25413dc45cd2832d277
+    digest: 4da5dd7a9e7c600c5099efaca86b2ef1714c3deb76b003a50e7b506637b616cc
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -54,8 +54,7 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/Everything-is-Code/ApiShift
-    type: application
+    - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.2.0.tgz
     version: 0.2.0
@@ -73,9 +72,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.9
-    created: "2026-06-16T18:25:58.491913197Z"
+    created: "2026-07-16T12:14:37.8643488-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 3c795ee511d25895a283977e7e3251ac6586bd1ab0afdc59d0f7019ab43bab28
+    digest: fbe1203d0f5b5c6d682d6a4d41e9da87fde70f6e98773e22e5ab1c4272ebce6b
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -83,8 +82,7 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/maximilianoPizarro/ApiShift
-    type: application
+    - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.9.tgz
     version: 0.1.9
@@ -102,9 +100,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.8
-    created: "2026-06-16T18:25:58.491239991Z"
+    created: "2026-07-16T12:14:37.8638063-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: bed00890095db1deb66d1fa9504c1708a467117ca8b5da24b3103fe3509ff6cb
+    digest: f8b38bb00a31237cd05009499b17577a50d173ad109eaad6ca62ad6f802bddf3
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -112,8 +110,7 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/maximilianoPizarro/ApiShift
-    type: application
+    - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.8.tgz
     version: 0.1.8
@@ -131,9 +128,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.7
-    created: "2026-06-16T18:25:58.490510491Z"
+    created: "2026-07-16T12:14:37.8627078-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 5978d6f94b13846222258e153de380ddc678979d3df70801433e0e52039d3f45
+    digest: 1e84c6fdcf53ba39cef8905410a637e0116ada4372d93ecc52cc6fe88c1b8c66
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -141,8 +138,7 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/maximilianoPizarro/ApiShift
-    type: application
+    - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.7.tgz
     version: 0.1.7
@@ -160,9 +156,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.6
-    created: "2026-06-16T18:25:58.489758848Z"
+    created: "2026-07-16T12:14:37.8621787-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 808480655aa6ee5e0cbd64bc743f5a39e596798bdbb7d469639f93d5fd57784b
+    digest: 334190105535ce369c11eeb24aff7b90a2dc02cdf8235ddc857d2015fa1f0389
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -170,8 +166,7 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/maximilianoPizarro/ApiShift
-    type: application
+    - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.6.tgz
     version: 0.1.6
@@ -189,9 +184,9 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.4
-    created: "2026-06-16T18:25:58.489303064Z"
+    created: "2026-07-16T12:14:37.860529-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 3e27c76150b88accaa0418444454733ff457f632084f7b3fded6ef98c4b598a1
+    digest: d18b6eee9b871782fd0a8605b738aff9264589c2a0901902388f6a06bc02dfe7
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
@@ -199,9 +194,8 @@ entries:
       name: Maximiliano Pizarro
     name: apishift
     sources:
-    - https://github.com/maximilianoPizarro/ApiShift
-    type: application
+    - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.4.tgz
     version: 0.1.4
-generated: "2026-06-16T18:25:58.488626462Z"
+generated: "2026-07-16T12:14:37.8594515-03:00"
