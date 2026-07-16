@@ -15,14 +15,18 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2026-07-16T12:14:37.8659612-03:00"
+    created: "2026-07-16T13:08:59.1356878-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 428708273f37649a6d7f8121610598a23c7c2cd59a019c6540097744d1c17b7f
+    digest: 285294e62d1a25a938ebe6ccc78f9e61e3eb5df48f5b6cf77a2372df091b94d5
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
@@ -44,14 +48,18 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2026-07-16T12:14:37.8654311-03:00"
+    created: "2026-07-16T13:08:59.1351667-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 4da5dd7a9e7c600c5099efaca86b2ef1714c3deb76b003a50e7b506637b616cc
+    digest: 0ae08618b1d13807e07a720502b05ca18b9b28d54102985ae49281dfc53b3283
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
@@ -72,14 +80,18 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.9
-    created: "2026-07-16T12:14:37.8643488-03:00"
+    created: "2026-07-16T13:08:59.1341189-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: fbe1203d0f5b5c6d682d6a4d41e9da87fde70f6e98773e22e5ab1c4272ebce6b
+    digest: 8eb101a5acec93b5d1d454daeee4818b9ab02deb194e2466c80cda852360b68e
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
@@ -100,14 +112,18 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.8
-    created: "2026-07-16T12:14:37.8638063-03:00"
+    created: "2026-07-16T13:08:59.1335966-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: f8b38bb00a31237cd05009499b17577a50d173ad109eaad6ca62ad6f802bddf3
+    digest: 29fcbfd9a5a48bdc7bee4505fba466917e231e377cbbc586b6ebd84482cf5117
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
@@ -128,14 +144,18 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.7
-    created: "2026-07-16T12:14:37.8627078-03:00"
+    created: "2026-07-16T13:08:59.1325472-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 1e84c6fdcf53ba39cef8905410a637e0116ada4372d93ecc52cc6fe88c1b8c66
+    digest: 5eb24019247068005a9ac45acf718a32d7edf1bf0b6285ffa40b5741b6bb043b
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
@@ -156,14 +176,18 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.6
-    created: "2026-07-16T12:14:37.8621787-03:00"
+    created: "2026-07-16T13:08:59.1315116-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: 334190105535ce369c11eeb24aff7b90a2dc02cdf8235ddc857d2015fa1f0389
+    digest: 747e4262bf2912f5caf14352d2f066702ac0c33b423489d78e75714b2584ed8d
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
@@ -184,18 +208,22 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 0.1.4
-    created: "2026-07-16T12:14:37.860529-03:00"
+    created: "2026-07-16T13:08:59.1309865-03:00"
     description: AI-powered 3scale to Red Hat Connectivity Link migration platform
-    digest: d18b6eee9b871782fd0a8605b738aff9264589c2a0901902388f6a06bc02dfe7
+    digest: 30a0610a957ec51b3b89697c51bff4514bbffb3c143945bdb82207b3595a64ba
     home: https://everything-is-code.github.io/apishift/
     icon: https://everything-is-code.github.io/apishift/assets/logo.svg
     maintainers:
     - email: maximiliano.pizarro.5@gmail.com
       name: Maximiliano Pizarro
+    - email: pcastelo@redhat.com
+      name: Pablo Castelo
+    - email: fmeneses@redhat.com
+      name: Francisco Meneses
     name: apishift
     sources:
     - https://github.com/Everything-is-Code/apishift
     urls:
     - https://everything-is-code.github.io/apishift/apishift-0.1.4.tgz
     version: 0.1.4
-generated: "2026-07-16T12:14:37.8594515-03:00"
+generated: "2026-07-16T13:08:59.1304684-03:00"

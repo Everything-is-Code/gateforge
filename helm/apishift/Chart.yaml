@@ -11,6 +11,10 @@ sources:
 maintainers:
   - name: Maximiliano Pizarro
     email: maximiliano.pizarro.5@gmail.com
+  - name: Pablo Castelo
+    email: pcastelo@redhat.com
+  - name: Francisco Meneses
+    email: fmeneses@redhat.com
 annotations:
   artifacthub.io/license: Apache-2.0
   artifacthub.io/operator: "false"
